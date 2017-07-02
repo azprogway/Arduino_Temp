@@ -1,0 +1,15 @@
+{
+  "expo": {
+     "name": "Atmos",
+    "icon": "./assets/icons/app.png",
+    "version": "1.0.0",
+    "slug": "Atmos app",
+    "sdkVersion": "17.0.0",
+    "ios": {
+      "bundleIdentifier": "com.Atmos.Atmos"
+    },
+    "android": {
+      "package": "com.Atmos.Atmos"
+    }
+  }
+}
